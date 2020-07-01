@@ -1,2 +1,2 @@
 # halite_challenge
-Repository for Kaggle "Halite by Two Sigma" comeptition
+Repository for Kaggle "Halite by Two Sigma" competition
